@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Wasim Khan</h1>
+<b><h1 align="center">Hi 👋, I'm Wasim Khan</h1><b>
 <h3 align="center">.NET Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimk1&label=Profile%20views&color=0e75b6&style=flat" alt="wasimk1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasimk1" alt="wasimk1" /></a> </p>
 
 - 🔭 I’m currently working at **Suntech Business Solutions as a Full Stack developer**
 
